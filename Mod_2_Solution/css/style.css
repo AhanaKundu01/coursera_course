@@ -60,6 +60,9 @@ body{
   background-color: #E5D198;
 }
 
+#beef{
+  color : #ffffff }
+
 /* Simple Responsive Framework. */
 /*------ Desktop ------*/
 @media (min-width: 992px){
